@@ -1,5 +1,7 @@
 <h2>🗄️ Notes Project</h2>
 
+<img src="https://github.com/BmAlkes/HomeChallenge-frontend/blob/main/src/assets/Screenshot_3.png?raw=true"/>
+
 <h2>📝 Description</h2>
 <p> Front End created for Home assignment , with the intention of connecting to the back end and performing CRUD of notes and login</p>
 
