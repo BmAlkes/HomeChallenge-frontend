@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { BoxLogin, Divider, Form, LoginContainer, Title } from "./styled";
 import { Link, useNavigate } from "react-router-dom";
 import { BiLogIn } from "react-icons/bi";

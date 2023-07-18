@@ -1,4 +1,3 @@
-import React from "react";
 import { HomeComponent } from "./styles";
 import CreateCard from "../../components/CreateCard";
 import Cards from "../../components/Cards";

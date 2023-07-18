@@ -52,11 +52,7 @@ export const NoteContextComponent: React.FC<NoteContextProps> = ({
     const [notes, setNotes] = useState<NotesItem>([]);
 
     const notesCreation = async (note: Notes) => {
-        const response = await createNote(
-            note.title,
-            note.description,
-            note.created_by
-        );
+        await createNote(note.title, note.description, note.created_by);
         getNotes();
     };
 
@@ -75,7 +71,7 @@ export const NoteContextComponent: React.FC<NoteContextProps> = ({
     };
 
     const deleteNoteById = async (id: string) => {
-        const response = await deleteNote(id);
+        await deleteNote(id);
         setNotes(notes.filter((note) => note._id !== id));
     };
 

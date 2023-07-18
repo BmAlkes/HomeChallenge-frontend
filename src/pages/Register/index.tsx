@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { BoxLogin, Divider, Form, LoginContainer, Title } from "./styled";
 import { BiLogIn } from "react-icons/bi";
 import { Link } from "react-router-dom";
@@ -24,7 +24,6 @@ const Register = () => {
         register,
         handleSubmit,
         formState: { errors },
-        setError,
     } = useForm<LoginForm>({ resolver: zodResolver(loginFormSchema) });
 
     const handleNewLogin = (data: LoginForm) => {

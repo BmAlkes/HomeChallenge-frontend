@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { useContext } from "react";
 import { Box, CardsComponent } from "./styles";
 import { NoteContext } from "../../context/note";
 import { FiDelete, FiEdit } from "react-icons/fi";
