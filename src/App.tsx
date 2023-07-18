@@ -1,18 +1,11 @@
-import {
-    BrowserRouter,
-    Navigate,
-    Route,
-    Router,
-    Routes,
-    useNavigate,
-} from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import DefaultLayout from "./layout";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import { useContext } from "react";
 import { AutContext, AuthContext } from "./context/auth";
-import { NoteContext, NoteContextComponent } from "./context/note";
+import { NoteContextComponent } from "./context/note";
 
 interface ReactProps {
     children: React.ReactElement;
