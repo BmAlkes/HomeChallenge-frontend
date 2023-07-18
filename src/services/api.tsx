@@ -2,7 +2,7 @@ import axios from "axios";
 import { Notes } from "../@types/notes";
 
 export const api = axios.create({
-    baseURL: "http://localhost:5000",
+    baseURL: "https://backhome.onrender.com",
 });
 
 export const createSession = async (email: string, password: string) => {
