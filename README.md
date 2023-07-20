@@ -2,16 +2,16 @@
 
 <p><a href="https://home-challenge-frontend-ft4t.vercel.app">Link project</a></p>
 
-<img src="https://github.com/BmAlkes/HomeChallenge-frontend/blob/main/src/assets/Screenshot_3.png?raw=true"/>
+<img src=""/>
 
 <h2>📝 Description</h2>
-<p> Front End created for Home assignment , with the intention of connecting to the back end and performing CRUD of notes and login</p>
+<p></p>
 
 <hr/>
 
 <h2>📚Functionalities</h2>
-<p>Feature 1:Login and Register page are is possible to create a user and login.</p>
-  <p>Feature 2: Home page, The user can create, edit and delete notes. The user have acess only to your own note. </p>
+<p></p>
+  <p> </p>
   <hr/>
 <h3>🔧
 Technologies used
@@ -30,7 +30,7 @@ and after
 <hr/>
   
 <h3>🔜 future implementation</h3>
-There will be no new updates at the moment as it is a project developed with the intention of Home Assignment
+
   <hr/>
 <h3>  
 🤝 Colaboradores</h3>
@@ -38,4 +38,4 @@ There will be no new updates at the moment as it is a project developed with the
 <img src="https://www.github.com/BmAlkes.png" width="150px"/>
 BmAlkes
 <h2>🎯 Project Status</h2>
-<p>concluded</p>
+
