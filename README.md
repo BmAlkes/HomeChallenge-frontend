@@ -2,7 +2,7 @@
 
 <p><a href="https://home-challenge-frontend-ft4t.vercel.app">Link project</a></p>
 
-<img src=""/>
+<img src="https://github.com/BmAlkes/HomeChallenge-frontend/blob/main/src/assets/Screenshot_3.png?raw=true"/>
 
 <h2>📝 Description</h2>
 <p></p>
